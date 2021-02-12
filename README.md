@@ -1,4 +1,4 @@
-# DTclassifier
+# Decision Tree and Random Forest classifier
 decision tree and random forest classifier in sklearn
 
 -----------------------------------------------------------------------------------------------
