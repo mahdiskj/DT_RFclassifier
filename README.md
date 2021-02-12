@@ -1,5 +1,5 @@
 # DTclassifier
-decision tree classifier in sklearn
+decision tree and random forest classifier in sklearn
 
 -----------------------------------------------------------------------------------------------
 This repo contains a very simple model just to practice!
